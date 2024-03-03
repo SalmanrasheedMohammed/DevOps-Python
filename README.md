@@ -14,7 +14,7 @@ Simple Program:
 - print("Hello World!")
 
 **Python-02**
--
+
 - Data Types:
 NUMERIC
 Int - 10 (integer num)
