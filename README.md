@@ -8,3 +8,10 @@ Python has a large and active community of developers
 
 -Python DevOps works as [ complex logic - shell scripting - API integration - code - error - Data manupalation/processing ]
 example: [python] --Script(connect) -- API of Github(auto) -- Issues -- JSON(curl) -- Script(fetch)
+
+Simple Program:
+- print("Hello World!")
+
+**Python-02**
+-
+*Data Types:*
