@@ -18,6 +18,7 @@ Simple Program:
 
 **SEQUENCE**
 * str - "Rasheed" (characters)
+    * Inbuild methods - upper(), lower(), len(), replace(), strip(), split().
 * list - [1,2,3]  (Mutuable sequences)
 * tuple - (1,2,3) (Immutable sequences)
 
@@ -35,6 +36,6 @@ Simple Program:
 * bytearray - (d = bytearray(b'hello')) (mutable sequences of array)
 
 **NONE**
-
+*
 
 
