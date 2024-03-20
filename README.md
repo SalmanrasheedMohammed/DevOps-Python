@@ -15,7 +15,7 @@ Simple Program:
    * Multiple line comments
    * Inline comments 
 
-# Data Types:
+### Data Types:
 **NUMERIC**
 * Int - 10 (integer num)
 * Float - 1.0 (Float num)
