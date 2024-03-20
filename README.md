@@ -10,7 +10,7 @@
 ### Simple Program:
 - print("Hello World!")
 
-* Comments
+** Comments
    * Single line comments
    * Multiple line comments
    * Inline comments 
