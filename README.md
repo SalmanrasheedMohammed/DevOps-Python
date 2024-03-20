@@ -13,8 +13,14 @@
 **Comments**
    * Single line comments
    * Multiple line comments
-   * Inline comments 
+   * Inline comments
 
+**Variable**
+  - var name (Count)
+  - var assign (=)
+  - actual variable (0)
+  - ex: Count = 0
+ 
 ### Data Types:
 **NUMERIC**
 * Int - 10 (integer num)
