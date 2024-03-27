@@ -1,4 +1,4 @@
-# DevOps-Python
+# Python-DevOps
 
 ### Python:
 * Python is an interpreted language. This makes Python code more flexible and easier to debug.
